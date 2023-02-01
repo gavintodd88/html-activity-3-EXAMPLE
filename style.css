@@ -20,8 +20,18 @@ li {
   width: 24%;
 }
 
+img {
+  height: 20px;
+}
 
+.fancy-picture {
+  height: 500px;
+  width: 100%;
+}
 
+.icons {
+  height: 50px;
+}
 
 
 
